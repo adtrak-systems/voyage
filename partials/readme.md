@@ -1,0 +1,1 @@
+Place your theme partials in this directory.
